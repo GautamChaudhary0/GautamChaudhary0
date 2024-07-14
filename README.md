@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Gautam Chaudhary</h1>
 <h3 align="center">A passionate Web developed from India</h3>
 
-- 🌱 I’m currently learning **Web Development**
+🔭 I’m currently working on:
+Improving cloud-based solutions and implementing microservices architecture.
 
-- 👨‍💻 All of my projects are available at [https://gautamchaudhary0.github.io/My-Portfolio/](https://gautamchaudhary0.github.io/My-Portfolio/)
+👯 I’m looking to collaborate on:
+Fullstack projects
 
-- 📝 I regularly write articles on [codeofgreek.blogspot.com](codeofgreek.blogspot.com)
+🌱 I’m currently learning:
+Advanced AWS Services and GraphQL.
 
-- 📄 Know about my experiences [https://gautamchaudhary0.github.io/Resume/](https://gautamchaudhary0.github.io/Resume/)
-
-- ⚡ Fun fact **Nothing**
+💬 Ask me about:
+JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
